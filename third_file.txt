@@ -1,1 +1,1 @@
-This is the third file in the project
+This is the master version of the third file in the project
